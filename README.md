@@ -324,3 +324,12 @@ yc compute instance list
 | fhmtqudqmukvocrdi086 | elasticsearch | ru-central1-a | RUNNING |                | 10.4.0.29   |
 +----------------------+---------------+---------------+---------+----------------+-------------+
 ```
+
+## Скриншоты выполнения дипломной работы:
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1239d687-44cc-4694-b6f9-04e163f25b69" />
+
+<img width="1366" height="696" alt="image" src="https://github.com/user-attachments/assets/1992401d-7a61-4ae8-9587-fd91f33c0491" />
+
+
+
